@@ -9,7 +9,10 @@
   4. We've been using GitHub Desktop, but `git` is much more powerful
 
 ## Recognizing shell commands
-  1. prompt `bash $`
+  1. bash prompt: `$`
+  2. monospace, stylized text: `npm install`
+
+  Examples: https://docs.npmjs.com/cli/install
 
 ## Basic shell commands
   1. `$ pwd`
