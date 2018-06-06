@@ -45,3 +45,8 @@
 2. Change the text from `Welcome to React!` to `<your name>`.
 
 3. Take a screenshot and submit for proof.
+
+## Vim
+
+1. In a new terminal window, execute `vi`
+2. How do you quit Vim?
