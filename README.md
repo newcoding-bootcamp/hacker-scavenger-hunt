@@ -3,36 +3,37 @@
 ## Git
 
 1. What does the man page say `git init` does?
-2. What's the `git` command alphabetically after `status`? _Hint: you'll need to find a comprehensive list of git commands_
+2. What's the `git` command alphabetically before `status`? _Hint: you'll need to find a comprehensive list of git commands_
 
 ## Website
 
 #### Objective
 
-1. Create the following directories: `src` and `img`
-2. Inside `src`, create the following directories: `script`, `css
+1. In the root directory of this repo, create a folder called `website.` What was the command you executed?
+1. Using the command line, create a file `index.html` using the command line. What was the command you executed?
+1. Inside `website`, create the following directories: `src` and `img`. What was the command(s) you executed?
+2. Inside `src`, create the following directories: `script`, `styles` _using only one command_. What was the command you executed?
+3. From the `website` dir, what command would you use to create an `index.css` file inside of `styles`?
 
 ## React App
 
 `create-react-app` is an application distributed through npm.
 
-#### Objective 1
+#### Part 1
 
 1. In the `package-lock.json`, what version of `through-2` is specified? _Hint: VS Code has a method to search in files_
 
 2. In the same file, what are the dependencies for `tar-pack`?
 
-#### Objective 2
-
-1. How many files are in this node module? (including hidden files)
+1. How many files are in the `chalk` node module? (including hidden files)
 1. In the node module for `create-react-app`, what is the file size (in KB) of `index.js`?
 
-1. In the same node module, for `create-react-app`, what the permissions for `README.md`?
+1. In the same node module, for `create-react-app`, what are the permissions for `README.md`?
 
 
 4. In the node module for `validate-npm-package-name`, who holds the copyright? _Hint: look for a license file_
 
-#### Objective 3
+#### Part 2
 
 
 1. Navigate into the `react-app` folder.
