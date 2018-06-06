@@ -1,5 +1,10 @@
 # Hacker Scavenger Hunt
 
+## Git
+
+1. What does the man page say `git init` does?
+2. What's the `git` command alphabetically after `status`? _Hint: you'll need to find a comprehensive list of git commands_
+
 ## Website
 
 #### Objective
@@ -10,8 +15,6 @@
 ## React App
 
 `create-react-app` is an application distributed through npm.
-
-
 
 #### Objective 1
 
@@ -49,4 +52,4 @@
 ## Vim
 
 1. In a new terminal window, execute `vi`
-2. How do you quit Vim?
+2. How do you quit Vim? (_Knowing how to quite Vim is an important skill!_)

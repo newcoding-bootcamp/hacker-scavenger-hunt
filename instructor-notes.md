@@ -26,7 +26,6 @@
   4. `$ rm` (DANGER ZONE)
   3. `$ cd .` &nbsp;, &nbsp; `$ cd ..`
 
-
 ## File System Locations
 1. root `/`
 2. user `~`
@@ -44,6 +43,7 @@
 1. `$ touch`
 1. `$ code <target>`
 
+## Help File
 
 ## Next Steps
 
