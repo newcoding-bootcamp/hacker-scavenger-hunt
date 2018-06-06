@@ -16,11 +16,16 @@
 
 ## Basic shell commands
   1. `$ pwd`
-  2. `$ cd`
-  3. `$ cd .` &nbsp;, &nbsp; `$ cd ..`
-  3. `$ ls` (-a, -l)
+  1. `$ whoami`
+
+
+## Anatomy of a shell command
+  3. `$ ls` (-a, -l, -h)
   4. `$ mkdir`
+  2. `$ cd`
   4. `$ rm` (DANGER ZONE)
+  3. `$ cd .` &nbsp;, &nbsp; `$ cd ..`
+
 
 ## File System Locations
 1. root `/`
@@ -33,6 +38,11 @@
 ## File Tree
 
 1. Examples: relative and absolute paths in files
+
+## File commands
+
+1. `$ touch`
+1. `$ code <target>`
 
 
 ## Next Steps
