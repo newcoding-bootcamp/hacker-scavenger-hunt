@@ -57,3 +57,8 @@
 
 1. `zsh`
 2. `oh-my-zsh`
+
+## Hacker Scavenger Hunt
+
+1. Fork the repo, link in Discord
+2. Some of the points are challenges - ask a mentor or do someinternet searching for help
