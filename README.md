@@ -15,8 +15,6 @@
 
 ## React App
 
-`create-react-app` is an application distributed through npm.
-
 #### Part 1
 
 1. In the `package-lock.json`, what version of `through-2` is specified? _Hint: VS Code has a method to search in files_
@@ -38,11 +36,11 @@
 
 3. Navigate into the folder with the React app you just created
 
-4. `npm start` to start the development server
+4. `npm start` to start the development server. _Hint: when your development server is running, that termianl tab will be occupied. Open a new tab to run commands._
 
-1. Change the filepath from the `logo.svg` icon to an image of your choice (class-appropriate).
+1. Change the filepath from the `logo.svg` icon to an image of your choice (class-appropriate). _Hint: `App.js` is where you want to look_
 
-2. Change the text from `Welcome to React!` to `<your name>`.
+2. Change the text from `Welcome to React` to `<your name>`.
 
 3. Take a screenshot and submit for proof.
 
