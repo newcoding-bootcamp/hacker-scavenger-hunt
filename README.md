@@ -1,5 +1,12 @@
 # Hacker Scavenger Hunt
 
+## Website
+
+#### Objective
+
+1. Create the following directories: `src` and `img`
+2. Inside `src`, create the following directories: `script`, `css
+
 ## React App
 
 `create-react-app` is an application distributed through npm.
