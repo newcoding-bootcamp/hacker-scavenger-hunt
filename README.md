@@ -7,9 +7,7 @@
 
 ## Website
 
-#### Objective
-
-1. In the root directory of this repo, create a folder called `website.` What was the command you executed?
+1. In the root directory of this repo, create a folder called `website`. What was the command you executed?
 1. Using the command line, create a file `index.html` using the command line. What was the command you executed?
 1. Inside `website`, create the following directories: `src` and `img`. What was the command(s) you executed?
 2. Inside `src`, create the following directories: `script`, `styles` _using only one command_. What was the command you executed?
@@ -30,11 +28,9 @@
 
 1. In the same node module, for `create-react-app`, what are the permissions for `README.md`?
 
-
 4. In the node module for `validate-npm-package-name`, who holds the copyright? _Hint: look for a license file_
 
 #### Part 2
-
 
 1. Navigate into the `react-app` folder.
 
@@ -52,5 +48,6 @@
 
 ## Vim
 
-1. In a new terminal window, execute `vi`
-2. How do you quit Vim? (_Knowing how to quite Vim is an important skill!_)
+In a new terminal window, execute `vi`
+
+1. How do you quit Vim? (_Knowing how to quite Vim is an important skill!_)
