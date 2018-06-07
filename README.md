@@ -21,7 +21,7 @@
 
 2. In the same file, what are the dependencies for `tar-pack`?
 
-1. How many files are in the `chalk` node module? (including hidden files)
+~~1. How many files are in the `chalk` node module? (including hidden files)~~
 1. In the node module for `create-react-app`, what is the file size (in KB) of `index.js`?
 
 1. In the same node module, for `create-react-app`, what are the permissions for `README.md`?
