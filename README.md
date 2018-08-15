@@ -10,7 +10,7 @@ https://docs.google.com/forms/d/1e1AcY_FzsuW7rUBR4Z29SsQvj9ozcU74ioLhaiySF6g/edi
 
 ## Website
 
-1. In the root directory of this repo, create a folder called `website`. What was the command you executed?
+1. In `workspace`, create a folder called `website`. What was the command you executed?
 1. Using the command line, create a file `index.html` using the command line. What was the command you executed?
 1. Inside `website`, create the following directories: `src` and `img`. What was the command(s) you executed?
 2. Inside `src`, create the following directories: `script`, `styles` _using only one command_. What was the command you executed?
