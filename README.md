@@ -20,7 +20,7 @@ https://docs.google.com/forms/d/1e1AcY_FzsuW7rUBR4Z29SsQvj9ozcU74ioLhaiySF6g/edi
 
 #### Part 1
 
-1. In the `package-lock.json`, what version of `through-2` is specified? _Hint: VS Code has a method to search in files_
+1. In the `package.json`, what version of `through-2` is specified? _Hint: VS Code has a method to search in files_
 
 2. In the same file, what are the dependencies for `tar-pack`?
 
@@ -33,11 +33,11 @@ https://docs.google.com/forms/d/1e1AcY_FzsuW7rUBR4Z29SsQvj9ozcU74ioLhaiySF6g/edi
 
 #### Part 2
 
-1. Navigate into the `react-app` folder.
+1. From inside the `workspace` directory, execute the command `npm install -g create-react-app`
 
 2. `create-react-app <your-app-name>` to create a React App
 
-3. Navigate into the folder with the React app you just created
+3. Navigate into the folder with the React app you just created (Hint: it is the folder with the name `your-app-name` that you just entered
 
 4. `npm start` to start the development server. _Hint: when your development server is running, that termianl tab will be occupied. Open a new tab to run commands._
 
