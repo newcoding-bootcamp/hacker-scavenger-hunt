@@ -1,5 +1,8 @@
 # Hacker Scavenger Hunt
 
+### Google Form:
+https://docs.google.com/forms/d/1e1AcY_FzsuW7rUBR4Z29SsQvj9ozcU74ioLhaiySF6g/edit
+
 ## Git
 
 1. What does the man page say `git init` does?
